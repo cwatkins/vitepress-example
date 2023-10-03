@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "18.14.1"
+  },
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
